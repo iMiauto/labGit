@@ -26,3 +26,4 @@ public class hilos extends Thread {
 public void comentaro() {
     System.out.println("Este es un comentario en el código.");
 }
+// Esto fue hecho en la web
